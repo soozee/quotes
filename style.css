@@ -1,0 +1,27 @@
+body {
+  background:teal;
+  color:#fff;
+  font-family:Pacifico;
+  text-align:center;
+}
+button {
+  padding:15px;
+  font-size:20px;
+  font-family:lobster;
+}
+button:hover {
+  background-color:#fff;
+  background:url('http://www.addglitter.com/link-sparkle.gif');    
+}
+h1 {
+  text-shadow:1px 2px #000;
+}
+#quoteDisplay {
+  padding:20px;
+  font-family: 'Amatic SC';
+  font-size:40px; 
+  background-color: #fff;
+  color: #000;
+  width:75%;
+  margin: 10px auto;
+}
